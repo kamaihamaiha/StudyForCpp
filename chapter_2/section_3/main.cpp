@@ -15,7 +15,6 @@ int main(){
   int j, &rj = j;
   j = 5;
   rj = 10;
-
   std::cout << j << ", " << rj << std::endl;
   return 0;
 }
