@@ -16,5 +16,21 @@ int main(){
   j = 5;
   rj = 10;
   std::cout << j << ", " << rj << std::endl;
+
+  // 练习：2.18
+  int a = 2;
+  int *pa = &a;
+  std::cout << a << ", pa= " << *pa << std::endl;
+  *pa = 3;
+  std::cout << a << ", pa= " << *pa << std::endl;
+  pa = 0;
+  std::cout << a << ", pa= " << (pa == nullptr) << std::endl;
+
+  // 练习：2.19
+  int b = 3;
+  int *pb = &b;
+  *pb = *pb * *pb;
+  std::cout << *pb << std::endl;
+
   return 0;
 }
