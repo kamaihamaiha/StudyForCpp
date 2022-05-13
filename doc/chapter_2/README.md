@@ -3,4 +3,5 @@
 - [2.1 基本内置类型](./section_1.md)
 - [2.2 变量](./section_2.md)
 - [2.3 复合类型](./section_3.md)
+- [2.4 const 限定符](./section_4.md)
 
