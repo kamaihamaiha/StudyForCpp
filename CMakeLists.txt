@@ -4,10 +4,11 @@ project(study_for_cpp)
 set(CMAKE_CXX_STANDARD 11)
 
 # 头文件
-include_directories(chapter_1/section_5/*.h)
+include_directories(chapter_1/section_5/*.h chapter_2/section_6/*.h)
 
 # 不能添加多个源文件，想运行哪个源文件，临时放开（注释）
-add_executable(main chapter_2/section_3/main.cpp)
+add_executable(main chapter_2/section_6/main.cpp)
+#add_executable(main chapter_2/section_3/main.cpp)
 #add_executable(main chapter_2/section_2/main.cpp)
 #add_executable(main chapter_2/section_1/Main.cpp)
 #add_executable(main-from-section_6 chapter_1/section_6/main_6.cpp)
