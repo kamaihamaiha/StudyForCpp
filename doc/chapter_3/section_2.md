@@ -25,7 +25,7 @@ string s;               // 默认初始化，s 是一个空串
 string s2 = s;          // s2 是 s 的副本
 string s3(s);           // s3 是 s 的副本。等价于上面的方式
 string s4 = "cpp";      // s4 是字面值 "cpp" 的副本
-string s5 = ("cpp");    // 等价于上面
+string s5("cpp");       // 等价于上面
 string s6(3, 'c');      // 初始化为 3个字符 'c' 组成的字符串
 ```
 
