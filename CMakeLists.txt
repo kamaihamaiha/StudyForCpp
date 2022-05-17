@@ -7,7 +7,8 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(chapter_1/section_5/*.h chapter_2/section_6/*.h)
 
 # 不能添加多个源文件，想运行哪个源文件，临时放开（注释）
-add_executable(main chapter_3/section_3/main_3.cpp)
+add_executable(main chapter_3/section_4/main.cpp)
+#add_executable(main chapter_3/section_3/main_3.cpp)
 #add_executable(main chapter_3/section_3/main.cpp)
 #add_executable(main chapter_3/section_2/main_for.cpp)
 #add_executable(main chapter_3/section_2/main.cpp)
