@@ -5,3 +5,4 @@
 - [Chapter 3 字符串、向量和数组](./doc/chapter_3/README.md)
 - [Chapter 4 表达式](./doc/chapter_4/README.md)
 - [Chapter 5 语句](./doc/chapter_5/README.md)
+- [Chapter 6 函数基础](./doc/chapter_6/README.md)
