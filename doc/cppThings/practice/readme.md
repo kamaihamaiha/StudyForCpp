@@ -1,7 +1,7 @@
 ### 实战系列
-
+[github 地址](https://github.com/Light-City/CPlusPlusThings/tree/master/practical_exercises/10_day_practice)
 - [day1 基本 C++ 语法](./day1/readme.md)
-- [day2 递归、结构体、枚举、静态变量等]()
+- [day2 递归、结构体、枚举、静态变量等](./day2/readme.md)
 - [day3 函数]()
 - [day4 函数深入]()
 - [day5 继承多态]()
