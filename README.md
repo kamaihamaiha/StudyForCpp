@@ -6,6 +6,7 @@
 - [Chapter 4 表达式](./doc/chapter_4/README.md)
 - [Chapter 5 语句](./doc/chapter_5/README.md)
 - [Chapter 6 函数基础](./doc/chapter_6/README.md)
+- [Chapter 7 类](./doc/chapter_7/README.md)
 
 ---
 
