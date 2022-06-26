@@ -6,6 +6,7 @@
 0. CMake 安装
 1. 确保计算机中已经安装了 C++ 编译工具
 2. 构建示意图
+3. [用 VS Code 构建简单项目](./vscode_sample/readme.md)
 
 ---
 
